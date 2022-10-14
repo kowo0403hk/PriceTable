@@ -143,6 +143,8 @@ body {
   min-height: 100vh;
 }
 
+/* start with mobile layout. It is easier to scale with larger screen with media query */
+
 .panel {
   background-color: white;
   border-radius: 10px;
